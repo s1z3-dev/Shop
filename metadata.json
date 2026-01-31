@@ -1,0 +1,5 @@
+{
+  "name": "SmartShop Compare",
+  "description": "A modern, mobile-friendly unit price calculator to compare up to 4 items and find the best value for money in EUR and BGN.",
+  "requestFramePermissions": []
+}
